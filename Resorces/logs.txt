@@ -1,0 +1,17 @@
+
+
+ [2024-12-16 16:33:15.264824]: The Program was launched
+ [2024-12-16 16:33:15.268506]: Global Variables were declared'
+ [2024-12-16 16:33:15.269658]: Global Error Variables were declared
+ [2024-12-16 16:33:15.270836]: Global Command Variables were declared
+ [2024-12-16 16:33:15.271920]: Function 'ProgramStart' was called
+ [2024-12-16 16:33:15.273323]: Function 'GetUserInput' was called
+ [2024-12-16 16:33:19.796879]: Function 'ExacuteCommand' was called
+ [2024-12-16 16:33:19.797778]: Function 'CommandPercy' was called
+ [2024-12-16 16:33:19.871256]: Function 'GetUserInput' was called
+ [2024-12-16 16:50:49.109544]: The Program was launched
+ [2024-12-16 16:50:49.116780]: Global Variables were declared'
+ [2024-12-16 16:50:49.120032]: Global Error Variables were declared
+ [2024-12-16 16:50:49.121254]: Global Command Variables were declared
+ [2024-12-16 16:50:49.123404]: Function 'ProgramStart' was called
+ [2024-12-16 16:50:49.125496]: Function 'GetUserInput' was called
